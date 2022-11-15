@@ -2,11 +2,15 @@
   text-align: center; 
 }
 body{
-background-color: rgb(130, 91, 170);
+background-color: rgb(134, 239, 255);
 }
 .navbar{
-background-color: rgb(202, 151, 245);
+background-color: rgba(170, 245, 245, 0.863);
 }
 .btn{
-  background-color: rgb(130, 91, 170);
+  background-color: rgb(95, 215, 252);
+}
+.card {
+  border-radius: 50px;
+  margin: 3em;
 }
