@@ -14,3 +14,10 @@ background-color: rgba(170, 245, 245, 0.863);
   border-radius: 50px;
   margin: 3em;
 }
+
+.margin{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 50px;
+  margin-bottom: 0px;}
+
