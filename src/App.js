@@ -1,10 +1,14 @@
 
+import { useEffect } from 'react';
 import './App.css';
+import MatrixBackground from './matrix';
 
 function App() {
+
   return (
     <div className="App">
-      <nav class="navbar">
+      <MatrixBackground/>
+      <nav className="navbar">
         <div class="container-fluid">
           <img src="/logolican.png" width="80" height="80" alt="" />
           <form class="d-flex">
@@ -26,7 +30,7 @@ function App() {
                   <img class="logo" src="/logolican.png" width="150" height="150" alt="" />
                 </center>
                 <br></br>
-                <p class="card-title">Lican Santander</p>
+                <p  class="card-title">Lican Santander</p>
               </div>
             </div>
             <div class="col-6">
@@ -130,3 +134,4 @@ function App() {
 }
 
 export default App;
+

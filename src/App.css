@@ -2,7 +2,7 @@
   text-align: center; 
 }
 body{
-background-color: rgb(134, 239, 255);
+background-color: rgba(0, 0, 0, 0.246);
 }
 .navbar{
 background-color: rgba(170, 245, 245, 0.863);
@@ -21,3 +21,6 @@ background-color: rgba(170, 245, 245, 0.863);
   margin-top: 50px;
   margin-bottom: 0px;}
 
+.imagem{
+
+} 
